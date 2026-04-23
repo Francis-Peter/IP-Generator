@@ -227,10 +227,6 @@ These binaries are **not** included in this repository. Obtain them in one of tw
 
 ---
 
-## License
-
-MIT License
-
 ## Author
 
 [@FrancisCYH](https://github.com/FrancisCYH)
